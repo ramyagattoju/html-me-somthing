@@ -1,0 +1,47 @@
+body{
+    background-image: url("paper.gif");
+    background-color:cornsilk;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:50px;
+    color : maroon;
+    border: 5px solid #7A2129;
+    background-color: #8BE3E0;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+
+b{
+    font-family:cursive, Times, serif ;
+    font-size: 30px;
+    color: darkmagenta;
+    border-bottom: 3px solid darkgreen;
+   
+}
+img{
+    border:2px ;
+    border-style: solid;
+    width: 500px;
+    height: 350px; 
+}
+p{
+    font-family: fantasy, Times, serif;
+    font-size:20px;
+    color: #0B0909;
+}
+ul{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    color: #0B0909;
+}
+li{
+    font-family: Fantasy, Times, serif;
+    font-size:20px;
+    color: #0B0909;
+}
+
